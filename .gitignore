@@ -1,0 +1,8 @@
+# Ignore environment files
+.env
+
+# Ignore Deno cache
+deno.lock
+
+# Ignore node modules (if any in future)
+node_modules/
